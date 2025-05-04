@@ -263,3 +263,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04May2025 23:02:19.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Sweet Dreams]
 [04May2025 23:03:01.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Acquire Hardware]
 [04May2025 23:04:01.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Suit Up]
+[04May2025 23:05:34.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Stone Age]
+[04May2025 23:07:37.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jheremy2509 lost connection: Disconnected
+[04May2025 23:07:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 left the game
