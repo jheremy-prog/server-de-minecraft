@@ -303,3 +303,53 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04May2025 17:56:30.038] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Creating world gen queue
 [04May2025 17:56:30.040] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Created world gen queue
 [04May2025 17:56:30.040] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:the_nether].
+[04May2025 18:25:15.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jheremy2509[/127.215.128.40:53093] logged in with entity id 194 at (119.5, 73.0, 106.5)
+[04May2025 18:25:15.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 joined the game
+[04May2025 18:25:15.939] [Server thread/INFO] [Jade/]: Syncing config to jheremy2509 (49b1a977-fa17-3da7-a7c9-fc3e6d435455)
+[04May2025 18:25:16.024] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [jheremy2509] joined.
+[04May2025 18:25:16.891] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] jheremy2509: protocol version: 2.0
+[04May2025 18:25:16.913] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 2 plugins: supplementaries, shulkerboxtooltip
+[04May2025 18:25:16.924] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/misterpemodder/shulkerboxtooltip/api/renderer/PreviewRenderer for invalid dist DEDICATED_SERVER
+[04May2025 18:25:16.924] [Server thread/ERROR] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Failed to register providers for mod supplementaries
+java.lang.RuntimeException: Attempted to load class com/misterpemodder/shulkerboxtooltip/api/renderer/PreviewRenderer for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.mehvahdjukaar.supplementaries.integration.ShulkerBoxTooltipCompat.registerProviders(ShulkerBoxTooltipCompat.java:19) ~[supplementaries-1.20-3.1.30.jar%23188!/:?]
+	at com.misterpemodder.shulkerboxtooltip.impl.PluginManager.loadProviders(PluginManager.java:112) ~[shulkerboxtooltip-forge-4.0.4+1.20.1.jar%23183!/:?]
+	at com.misterpemodder.shulkerboxtooltip.impl.network.ServerNetworking.addClient(ServerNetworking.java:43) ~[shulkerboxtooltip-forge-4.0.4+1.20.1.jar%23183!/:?]
+	at com.misterpemodder.shulkerboxtooltip.impl.network.message.C2SHandshakeStart$Type.lambda$onReceive$0(C2SHandshakeStart.java:57) ~[shulkerboxtooltip-forge-4.0.4+1.20.1.jar%23183!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04May2025 18:25:16.930] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[04May2025 18:25:22.436] [Server thread/INFO] [do_a_barrel_roll/]: Client of jheremy2509 accepted server config.
+[04May2025 18:27:50.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jheremy2509 a server operator
+[04May2025 18:27:50.408] [Server thread/INFO] [do_a_barrel_roll/]: Client of jheremy2509 accepted server config.
+[04May2025 18:30:34.614] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=43, y=75, z=-187}
+[04May2025 18:30:38.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4047ms or 80 ticks behind
+[04May2025 18:34:17.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [This Must be a Sign!]
+[04May2025 18:34:30.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 was slain by Zombie
+[04May2025 18:34:33.688] [Server thread/INFO] [do_a_barrel_roll/]: Client of jheremy2509 accepted server config.
+[04May2025 18:34:53.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the time to 1000]
+[04May2025 18:35:09.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 was slain by Zombie
+[04May2025 18:35:10.980] [Server thread/INFO] [do_a_barrel_roll/]: Client of jheremy2509 accepted server config.
+[04May2025 18:35:37.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 was slain by Zombie
+[04May2025 18:35:39.937] [Server thread/INFO] [do_a_barrel_roll/]: Client of jheremy2509 accepted server config.
