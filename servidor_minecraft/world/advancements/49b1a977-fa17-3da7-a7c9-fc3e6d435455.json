@@ -5,30 +5,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-05-04 20:56:21 +0000"
@@ -40,18 +16,6 @@
       "custom_test_name": "2025-05-04 20:56:21 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
-    },
-    "done": false
   },
   "cataclysm:root": {
     "criteria": {
@@ -65,39 +29,15 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-05-04 20:56:22 +0000"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-05-04 20:56:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
     },
     "done": false
   },
@@ -109,19 +49,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_taiga": "2025-05-04 20:56:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 20:56:34 +0000"
+      "minecraft:taiga": "2025-05-04 22:57:50 +0000",
+      "minecraft:snowy_taiga": "2025-05-04 20:56:22 +0000",
+      "minecraft:forest": "2025-05-04 22:59:01 +0000",
+      "minecraft:lush_caves": "2025-05-04 22:58:01 +0000",
+      "minecraft:frozen_ocean": "2025-05-04 22:58:11 +0000"
     },
     "done": false
   },
