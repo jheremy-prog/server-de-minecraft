@@ -263,3 +263,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05May2025 14:47:13.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the time to 1000]
 [05May2025 14:48:46.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Monster Hunter]
 [05May2025 14:50:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
+[05May2025 14:50:38.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Gave 64 [Cobblestone] to jheremy2509]
+[05May2025 14:58:48.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: The difficulty has been set to Normal]
+[05May2025 14:59:23.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the world spawn point to 64, 70, -441 [0.0]]
+[05May2025 15:00:00.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the world spawn point to 30, 70, -448 [0.0]]
