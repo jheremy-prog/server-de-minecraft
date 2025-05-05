@@ -971,6 +971,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-05-05 15:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-05 14:46:04 +0000"
@@ -1001,9 +1007,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-05 15:04:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
     "criteria": {
       "has_coffin": "2025-05-05 14:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-05 15:05:57 +0000"
     },
     "done": true
   },
@@ -1025,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-05 14:57:07 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
     "criteria": {
       "has_coffin": "2025-05-05 14:49:19 +0000"
@@ -1037,9 +1061,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_wolfsbane": "2025-05-05 15:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-05 14:57:07 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
     "criteria": {
       "has_coffin": "2025-05-05 14:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-05 15:04:46 +0000"
     },
     "done": true
   },
@@ -1052,6 +1094,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-05-05 14:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-05 15:05:47 +0000"
     },
     "done": true
   },

@@ -3151,3 +3151,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05May2025 14:58:48.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: The difficulty has been set to Normal]
 [05May2025 14:59:23.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the world spawn point to 64, 70, -441 [0.0]]
 [05May2025 15:00:00.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the world spawn point to 30, 70, -448 [0.0]]
+[05May2025 15:01:16.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 15:01:16.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 15:04:50.518] [Worker-Main-12/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05May2025 15:04:50.518] [Worker-Main-12/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05May2025 15:04:50.519] [Worker-Main-12/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05May2025 15:04:50.519] [Worker-Main-12/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05May2025 15:04:50.520] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05May2025 15:04:50.520] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05May2025 15:04:50.520] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05May2025 15:04:50.833] [Worker-Main-11/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05May2025 15:06:16.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 15:06:16.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 15:09:39.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=64, z=-536} BlockPos{x=38, y=62, z=-536}
+[05May2025 15:09:40.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=64, z=-533} BlockPos{x=38, y=62, z=-532}
+[05May2025 15:09:40.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=64, z=-532} BlockPos{x=37, y=62, z=-531}
+[05May2025 15:09:41.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=64, z=-530} BlockPos{x=37, y=62, z=-529}
+[05May2025 15:09:45.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=64, z=-510} BlockPos{x=37, y=62, z=-510}
+[05May2025 15:09:46.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=64, z=-509} BlockPos{x=36, y=62, z=-509}
