@@ -53,7 +53,8 @@
       "minecraft:snowy_taiga": "2025-05-04 20:56:22 +0000",
       "minecraft:forest": "2025-05-04 22:59:01 +0000",
       "minecraft:lush_caves": "2025-05-04 22:58:01 +0000",
-      "minecraft:frozen_ocean": "2025-05-04 22:58:11 +0000"
+      "minecraft:frozen_ocean": "2025-05-04 22:58:11 +0000",
+      "minecraft:plains": "2025-05-05 15:33:27 +0000"
     },
     "done": false
   },
@@ -1019,6 +1020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 15:32:42 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_orange_from_white": {
     "criteria": {
       "has_coffin": "2025-05-05 14:49:19 +0000"
@@ -1034,6 +1041,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-05 15:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-05-05 15:27:47 +0000"
     },
     "done": true
   },
@@ -1106,6 +1119,12 @@
   "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
     "criteria": {
       "has_coffin": "2025-05-05 14:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-05 15:28:48 +0000"
     },
     "done": true
   },
@@ -1199,9 +1218,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-05-05 15:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-05 15:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-05 15:28:48 +0000"
     },
     "done": true
   },
@@ -1232,6 +1269,18 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-05-05 15:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-05-05 15:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 15:32:42 +0000"
     },
     "done": true
   },
@@ -1298,6 +1347,24 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-05-05 14:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-05-05 15:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 15:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-05 15:28:48 +0000"
     },
     "done": true
   },
