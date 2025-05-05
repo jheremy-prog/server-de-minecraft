@@ -258,3 +258,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05May2025 14:33:48.509] [Server thread/INFO] [do_a_barrel_roll/]: Client of jheremy2509 accepted server config.
 [05May2025 14:34:47.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 was slain by Zombie
 [05May2025 14:36:04.761] [Server thread/INFO] [do_a_barrel_roll/]: Client of jheremy2509 accepted server config.
+[05May2025 14:45:47.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[05May2025 14:46:04.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Isn't It Iron Pick]
+[05May2025 14:47:13.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the time to 1000]
+[05May2025 14:48:46.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Monster Hunter]
+[05May2025 14:50:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
