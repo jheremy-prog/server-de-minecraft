@@ -273,3 +273,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05May2025 15:09:41.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=64, z=-530} BlockPos{x=37, y=62, z=-529}
 [05May2025 15:09:45.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=64, z=-510} BlockPos{x=37, y=62, z=-510}
 [05May2025 15:09:46.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=64, z=-509} BlockPos{x=36, y=62, z=-509}
+[05May2025 15:12:56.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: The difficulty has been set to Peaceful]

@@ -953,9 +953,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_gray_from_white": {
     "criteria": {
       "has_coffin": "2025-05-05 14:49:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-05-05 15:09:57 +0000"
     },
     "done": true
   },
@@ -1019,6 +1031,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-05-05 15:05:57 +0000"
@@ -1028,6 +1052,12 @@
   "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
     "criteria": {
       "has_coffin": "2025-05-05 14:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
     },
     "done": true
   },
@@ -1043,6 +1073,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-05 14:57:07 +0000"
@@ -1052,6 +1106,24 @@
   "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
     "criteria": {
       "has_coffin": "2025-05-05 14:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
     },
     "done": true
   },
@@ -1067,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-05 14:57:07 +0000"
@@ -1076,6 +1154,12 @@
   "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
     "criteria": {
       "has_coffin": "2025-05-05 14:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
     },
     "done": true
   },
@@ -1097,6 +1181,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-05-05 15:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-05 15:05:47 +0000"
@@ -1106,6 +1196,12 @@
   "vampirism:recipes/decorations/vampire/coffin_magenta_from_white": {
     "criteria": {
       "has_coffin": "2025-05-05 14:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-05 15:08:22 +0000"
     },
     "done": true
   },
