@@ -3163,3 +3163,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06May2025 15:15:33.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Removed 2304 item(s) from player jheremy2509]
 [06May2025 15:15:37.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Removed 1792 item(s) from player jheremy2509]
 [06May2025 15:16:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Config for vampirism of type SERVER found at vampirism-balance.toml]
+[06May2025 15:17:18.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 15:17:18.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 15:17:21.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Gave 6400 [Acacia Log] to jheremy2509]
+[06May2025 15:17:23.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Gave 6400 [Acacia Log] to jheremy2509]
+[06May2025 15:18:09.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[06May2025 15:22:18.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 15:22:18.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 15:26:01.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the time to 1000]
+[06May2025 15:26:45.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported jheremy2509 to -53999.500000, 100.000000, -1888.500000]
+[06May2025 15:26:45.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
