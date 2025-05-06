@@ -2260,5 +2260,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-05-06 15:04:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-05-06 15:04:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
