@@ -272,3 +272,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06May2025 02:42:05.438] [Server thread/INFO] [do_a_barrel_roll/]: Client of MATIASRHLM accepted server config.
 [06May2025 02:42:11.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATIASRHLM lost connection: Disconnected
 [06May2025 02:42:11.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATIASRHLM left the game
+[06May2025 02:43:28.688] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@323038f8[id=<null>,name=MATIASRHLM,properties={},legacy=false] (/127.99.64.138:52415) lost connection: Disconnected
+[06May2025 02:44:07.934] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41d84b5[id=<null>,name=MATIASRHLM,properties={},legacy=false] (/127.99.64.138:39001) lost connection: Disconnected
+[06May2025 02:46:31.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 was slain by Vampire
+[06May2025 02:46:31.149] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for jheremy2509 with unique ID travelersbackpack.iron_06.05.2025-02.46.31.dat
+[06May2025 02:46:34.038] [Server thread/INFO] [do_a_barrel_roll/]: Client of jheremy2509 accepted server config.
+[06May2025 02:46:58.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Spectator Mode]
+[06May2025 02:47:54.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
+[06May2025 02:48:36.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATIASRHLM[/127.99.64.138:48413] logged in with entity id 2576 at (31.5, 79.0, -437.5)
+[06May2025 02:48:36.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATIASRHLM joined the game
+[06May2025 02:48:36.186] [Server thread/INFO] [Jade/]: Syncing config to MATIASRHLM (64719e50-f619-3723-b325-60aafb3e3603)
+[06May2025 02:48:36.576] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] MATIASRHLM: protocol version: 2.0
+[06May2025 02:48:38.251] [Server thread/INFO] [do_a_barrel_roll/]: Client of MATIASRHLM accepted server config.
+[06May2025 02:48:39.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATIASRHLM lost connection: Disconnected
+[06May2025 02:48:39.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATIASRHLM left the game
+[06May2025 02:48:51.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATIASRHLM[/127.99.64.138:51103] logged in with entity id 2661 at (31.5, 79.0, -437.5)
+[06May2025 02:48:51.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATIASRHLM joined the game
+[06May2025 02:48:51.294] [Server thread/INFO] [Jade/]: Syncing config to MATIASRHLM (64719e50-f619-3723-b325-60aafb3e3603)
+[06May2025 02:48:51.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATIASRHLM lost connection: Disconnected
+[06May2025 02:48:51.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATIASRHLM left the game
+[06May2025 02:49:00.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATIASRHLM[/127.99.64.138:36561] logged in with entity id 2697 at (31.5, 79.0, -437.5)
+[06May2025 02:49:00.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATIASRHLM joined the game
+[06May2025 02:49:00.982] [Server thread/INFO] [Jade/]: Syncing config to MATIASRHLM (64719e50-f619-3723-b325-60aafb3e3603)
+[06May2025 02:49:01.177] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] MATIASRHLM: protocol version: 2.0
+[06May2025 02:49:02.335] [Server thread/INFO] [do_a_barrel_roll/]: Client of MATIASRHLM accepted server config.
+[06May2025 02:49:07.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATIASRHLM lost connection: Disconnected
+[06May2025 02:49:07.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATIASRHLM left the game
+[06May2025 02:49:22.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATIASRHLM[/127.99.64.138:55157] logged in with entity id 2761 at (31.5, 79.0, -437.5)
+[06May2025 02:49:22.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATIASRHLM joined the game
+[06May2025 02:49:22.780] [Server thread/INFO] [Jade/]: Syncing config to MATIASRHLM (64719e50-f619-3723-b325-60aafb3e3603)
+[06May2025 02:49:22.970] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] MATIASRHLM: protocol version: 2.0
+[06May2025 02:49:23.869] [Server thread/INFO] [do_a_barrel_roll/]: Client of MATIASRHLM accepted server config.
+[06May2025 02:49:26.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATIASRHLM lost connection: Disconnected
+[06May2025 02:49:26.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATIASRHLM left the game
+[06May2025 02:50:20.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Spectator Mode]
+[06May2025 02:50:52.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
+[06May2025 02:51:09.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Need A Map?]
+[06May2025 02:51:09.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [The Beginning of An Adventure]

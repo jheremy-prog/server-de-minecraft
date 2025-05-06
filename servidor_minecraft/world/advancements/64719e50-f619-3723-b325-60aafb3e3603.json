@@ -5,6 +5,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-06 02:42:03 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-06 02:42:03 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-06 02:42:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-05-06 02:42:03 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-05-06 02:42:04 +0000"
@@ -29,18 +53,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-05-06 02:42:03 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-05-06 02:42:03 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-05-06 02:42:04 +0000"
@@ -52,18 +64,6 @@
       "log_spam_fixer": "2025-05-06 02:42:04 +0000"
     },
     "done": false
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-05-06 02:42:03 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2025-05-06 02:42:03 +0000"
-    },
-    "done": true
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
