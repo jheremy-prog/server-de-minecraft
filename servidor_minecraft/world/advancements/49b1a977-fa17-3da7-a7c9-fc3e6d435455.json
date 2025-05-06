@@ -50,7 +50,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-04 22:57:50 +0000",
+      "minecraft:beach": "2025-05-06 03:13:20 +0000",
       "minecraft:river": "2025-05-05 15:52:41 +0000",
+      "minecraft:snowy_plains": "2025-05-06 02:50:31 +0000",
       "minecraft:snowy_taiga": "2025-05-04 20:56:22 +0000",
       "minecraft:forest": "2025-05-04 22:59:01 +0000",
       "minecraft:lush_caves": "2025-05-04 22:58:01 +0000",
@@ -1982,6 +1984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-06 02:37:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 02:41:05 +0000"
@@ -2066,12 +2074,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-05-06 02:37:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 02:41:05 +0000"
@@ -2081,6 +2083,150 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 02:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-06 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-06 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-06 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-05-06 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-06 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-05-06 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-06 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-06 02:50:04 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-05-06 02:51:09 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-05-06 02:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone": {
+    "criteria": {
+      "has_broken_bone": "2025-05-06 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-05-06 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 02:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 02:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 02:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-06 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-06 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-06 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-06 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-06 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-06 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-06 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-06 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-06 02:55:17 +0000"
     },
     "done": true
   },
