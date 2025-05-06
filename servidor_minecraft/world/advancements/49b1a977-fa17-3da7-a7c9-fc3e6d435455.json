@@ -50,13 +50,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-04 22:57:50 +0000",
+      "minecraft:birch_forest": "2025-05-06 03:19:12 +0000",
       "minecraft:beach": "2025-05-06 03:13:20 +0000",
+      "minecraft:mangrove_swamp": "2025-05-06 03:26:22 +0000",
+      "minecraft:sparse_jungle": "2025-05-06 03:25:50 +0000",
       "minecraft:river": "2025-05-05 15:52:41 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-06 14:35:36 +0000",
       "minecraft:snowy_plains": "2025-05-06 02:50:31 +0000",
       "minecraft:snowy_taiga": "2025-05-04 20:56:22 +0000",
       "minecraft:forest": "2025-05-04 22:59:01 +0000",
       "minecraft:lush_caves": "2025-05-04 22:58:01 +0000",
       "minecraft:frozen_ocean": "2025-05-04 22:58:11 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-06 03:19:03 +0000",
+      "minecraft:savanna": "2025-05-06 03:26:57 +0000",
       "minecraft:plains": "2025-05-05 15:33:27 +0000"
     },
     "done": false
@@ -2227,6 +2233,30 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-06 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-06 14:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-06 14:32:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-05-06 14:32:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-06 14:39:41 +0000"
     },
     "done": true
   },
