@@ -3173,3 +3173,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06May2025 15:26:01.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the time to 1000]
 [06May2025 15:26:45.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported jheremy2509 to -53999.500000, 100.000000, -1888.500000]
 [06May2025 15:26:45.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
+[06May2025 15:27:21.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 15:27:21.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 15:27:32.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jheremy2509 moved too quickly! 4.221434560109628,0.0,-9.314205771619527
+[06May2025 15:29:18.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the weather to clear]
+[06May2025 15:30:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported jheremy2509 to -3616.500000, 100.000000, -624.500000]
+[06May2025 15:30:55.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[06May2025 15:32:00.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Applied effect Night Vision to jheremy2509]
+[06May2025 15:32:12.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Spectator Mode]
+[06May2025 15:32:23.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 15:32:23.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 15:34:21.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported jheremy2509 to 1680.500000, 79.841360, -3215.500000]
+[06May2025 15:34:21.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
+[06May2025 15:35:15.276] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 49.776s
+[06May2025 15:36:30.062] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 74.558s
+[06May2025 15:36:35.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
