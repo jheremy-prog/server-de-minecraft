@@ -64,6 +64,9 @@
       "minecraft:forest": "2025-05-04 22:59:01 +0000",
       "minecraft:lush_caves": "2025-05-04 22:58:01 +0000",
       "minecraft:frozen_ocean": "2025-05-04 22:58:11 +0000",
+      "minecraft:desert": "2025-05-06 15:34:53 +0000",
+      "minecraft:warm_ocean": "2025-05-06 15:32:46 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-06 15:32:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-06 03:19:03 +0000",
       "minecraft:meadow": "2025-05-06 15:28:16 +0000",
       "minecraft:savanna": "2025-05-06 03:26:57 +0000",
@@ -981,6 +984,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-06 15:45:28 +0000",
       "minecraft:skeleton": "2025-05-05 15:46:58 +0000",
       "minecraft:zombie": "2025-05-05 14:48:46 +0000"
     },
@@ -2240,6 +2244,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-06 15:55:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-05-06 14:39:41 +0000"
@@ -2273,6 +2349,12 @@
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-05-06 15:04:22 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_normal_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-05-06 15:45:02 +0000"
     },
     "done": true
   },

@@ -3188,3 +3188,102 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06May2025 15:35:15.276] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 49.776s
 [06May2025 15:36:30.062] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 74.558s
 [06May2025 15:36:35.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[06May2025 15:37:26.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 15:37:26.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 15:37:46.745] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[06May2025 15:37:47.753] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[06May2025 15:38:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported jheremy2509 to 48.500000, 70.389728, -2607.500000]
+[06May2025 15:39:24.653] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Sunny'/28993, l='ServerLevel[world]', x=57.48, y=68.18, z=-2649.08] died, message: 'Sunny was sniped by Archer'
+[06May2025 15:39:24.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntity['Sunny'/28993, l='ServerLevel[world]', x=57.48, y=68.18, z=-2649.08] died: Sunny was sniped by Archer
+[06May2025 15:39:55.196] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Mindy'/28987, l='ServerLevel[world]', x=102.70, y=63.44, z=-2645.87] died, message: 'Mindy was struck down by Legioner'
+[06May2025 15:39:55.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntity['Mindy'/28987, l='ServerLevel[world]', x=102.70, y=63.44, z=-2645.87] died: Mindy was struck down by Legioner
+[06May2025 15:40:09.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Stephen'/28996, l='ServerLevel[world]', x=7.98, y=84.00, z=-2585.16] died, message: 'Stephen was shot by Pillager'
+[06May2025 15:40:09.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Stephen'/28996, l='ServerLevel[world]', x=7.98, y=84.00, z=-2585.16] died: Stephen was shot by Pillager
+[06May2025 15:40:46.646] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 112.113s
+[06May2025 15:41:47.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Robby'/29559, l='ServerLevel[world]', x=1.72, y=83.00, z=-2579.35] died, message: 'Robby was shot by Pillager'
+[06May2025 15:41:47.301] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntity['Robby'/29559, l='ServerLevel[world]', x=1.72, y=83.00, z=-2579.35] died: Robby was shot by Pillager
+[06May2025 15:42:26.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 15:42:26.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 15:43:11.450] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Alison'/28992, l='ServerLevel[world]', x=56.29, y=75.00, z=-2587.70] died, message: 'Alison was sniped by Archer'
+[06May2025 15:43:11.451] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntity['Alison'/28992, l='ServerLevel[world]', x=56.29, y=75.00, z=-2587.70] died: Alison was sniped by Archer
+[06May2025 15:43:41.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Jeanett'/29011, l='ServerLevel[world]', x=59.74, y=74.25, z=-2598.23] died, message: 'Jeanett was sniped by Archer'
+[06May2025 15:43:41.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntity['Jeanett'/29011, l='ServerLevel[world]', x=59.74, y=74.25, z=-2598.23] died: Jeanett was sniped by Archer
+[06May2025 15:44:09.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Katrice'/28999, l='ServerLevel[world]', x=59.77, y=71.00, z=-2626.70] died, message: 'Katrice was sniped by Archer'
+[06May2025 15:44:09.950] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntity['Katrice'/28999, l='ServerLevel[world]', x=59.77, y=71.00, z=-2626.70] died: Katrice was sniped by Archer
+[06May2025 15:44:16.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Removed every effect from jheremy2509]
+[06May2025 15:44:16.499] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Deedra'/30078, l='ServerLevel[world]', x=24.97, y=66.00, z=-2689.30] died, message: 'Deedra was shot by Pillager'
+[06May2025 15:44:16.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Deedra'/30078, l='ServerLevel[world]', x=24.97, y=66.00, z=-2689.30] died: Deedra was shot by Pillager
+[06May2025 15:44:19.548] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Curt'/28994, l='ServerLevel[world]', x=39.10, y=68.12, z=-2644.30] died, message: 'Curt was sniped by Archer'
+[06May2025 15:44:19.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntity['Curt'/28994, l='ServerLevel[world]', x=39.10, y=68.12, z=-2644.30] died: Curt was sniped by Archer
+[06May2025 15:44:55.499] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Bess'/30637, l='ServerLevel[world]', x=56.49, y=67.00, z=-2645.54] died, message: 'Bess was sniped by Archer'
+[06May2025 15:44:55.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntity['Bess'/30637, l='ServerLevel[world]', x=56.49, y=67.00, z=-2645.54] died: Bess was sniped by Archer
+[06May2025 15:45:09.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Rudolf'/30211, l='ServerLevel[world]', x=31.71, y=84.00, z=-2573.34] died, message: 'Rudolf was shot by Pillager'
+[06May2025 15:45:09.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntity['Rudolf'/30211, l='ServerLevel[world]', x=31.71, y=84.00, z=-2573.34] died: Rudolf was shot by Pillager
+[06May2025 15:45:33.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Karisa'/29879, l='ServerLevel[world]', x=66.46, y=68.25, z=-2661.23] died, message: 'Karisa was sniped by Archer'
+[06May2025 15:45:33.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Karisa'/29879, l='ServerLevel[world]', x=66.46, y=68.25, z=-2661.23] died: Karisa was sniped by Archer
+[06May2025 15:45:47.599] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kandis'/30743, l='ServerLevel[world]', x=-5.78, y=72.00, z=-2647.81] died, message: 'Kandis was shot by Pillager'
+[06May2025 15:45:47.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kandis'/30743, l='ServerLevel[world]', x=-5.78, y=72.00, z=-2647.81] died: Kandis was shot by Pillager
+[06May2025 15:46:43.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Reuben'/30902, l='ServerLevel[world]', x=86.81, y=71.00, z=-2599.75] died, message: 'Reuben was sniped by Archer'
+[06May2025 15:46:43.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Reuben'/30902, l='ServerLevel[world]', x=86.81, y=71.00, z=-2599.75] died: Reuben was sniped by Archer
+[06May2025 15:47:00.200] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fae'/29679, l='ServerLevel[world]', x=109.85, y=71.00, z=-2598.71] died, message: 'Fae was sniped by Archer'
+[06May2025 15:47:00.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Fae'/29679, l='ServerLevel[world]', x=109.85, y=71.00, z=-2598.71] died: Fae was sniped by Archer
+[06May2025 15:47:23.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gladis'/29640, l='ServerLevel[world]', x=77.30, y=69.00, z=-2632.00] died, message: 'Gladis was sniped by Archer'
+[06May2025 15:47:23.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Gladis'/29640, l='ServerLevel[world]', x=77.30, y=69.00, z=-2632.00] died: Gladis was sniped by Archer
+[06May2025 15:47:26.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 15:47:26.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 15:47:36.399] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jan'/30393, l='ServerLevel[world]', x=111.51, y=69.00, z=-2629.50] died, message: 'Jan was sniped by Archer'
+[06May2025 15:47:36.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jan'/30393, l='ServerLevel[world]', x=111.51, y=69.00, z=-2629.50] died: Jan was sniped by Archer
+[06May2025 15:48:00.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Norris'/29013, l='ServerLevel[world]', x=115.97, y=67.00, z=-2659.00] died: Norris was sniped by Archer
+[06May2025 15:49:32.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Config for vampirism of type SERVER found at vampirism-balance.toml]
+[06May2025 15:51:55.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carl'/31195, l='ServerLevel[world]', x=-45.40, y=94.00, z=-2620.07] died, message: 'Carl was shot by Pillager'
+[06May2025 15:51:55.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Carl'/31195, l='ServerLevel[world]', x=-45.40, y=94.00, z=-2620.07] died: Carl was shot by Pillager
+[06May2025 15:52:26.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 15:52:26.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 15:55:59.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jheremy2509 lost connection: Disconnected
+[06May2025 15:55:59.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 left the game
+[06May2025 15:57:22.066] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 43 messages to dispatch.
+[06May2025 15:57:22.095] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[06May2025 15:57:22.144] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[06May2025 15:57:22.193] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[06May2025 15:57:22.244] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 3
+[06May2025 15:57:22.292] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 4
+[06May2025 15:57:22.343] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 5
+[06May2025 15:57:22.398] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:refinement' to 'fml:handshake' sequence 6
+[06May2025 15:57:22.446] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 7
+[06May2025 15:57:22.498] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 8
+[06May2025 15:57:22.543] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:task_unlocker' to 'fml:handshake' sequence 9
+[06May2025 15:57:22.597] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:miniontasks' to 'fml:handshake' sequence 10
+[06May2025 15:57:22.648] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 11
+[06May2025 15:57:22.694] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:skills' to 'fml:handshake' sequence 12
+[06May2025 15:57:22.743] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 13
+[06May2025 15:57:22.796] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:actions' to 'fml:handshake' sequence 14
+[06May2025 15:57:22.843] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:refinement_set' to 'fml:handshake' sequence 15
+[06May2025 15:57:22.893] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 16
+[06May2025 15:57:22.942] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:task_requirement' to 'fml:handshake' sequence 17
+[06May2025 15:57:22.993] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 18
+[06May2025 15:57:23.045] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 19
+[06May2025 15:57:23.093] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 20
+[06May2025 15:57:23.144] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 21
+[06May2025 15:57:23.193] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 22
+[06May2025 15:57:23.245] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 23
+[06May2025 15:57:23.298] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 24
+[06May2025 15:57:23.343] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:task_reward' to 'fml:handshake' sequence 25
+[06May2025 15:57:23.393] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:oil' to 'fml:handshake' sequence 26
+[06May2025 15:57:23.443] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:converting_handler' to 'fml:handshake' sequence 27
+[06May2025 15:57:23.494] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 28
+[06May2025 15:57:23.543] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:entityactions' to 'fml:handshake' sequence 29
+[06May2025 15:57:23.592] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 30
+[06May2025 15:57:23.643] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:task_reward_instance' to 'fml:handshake' sequence 31
+[06May2025 15:57:23.693] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 32
+[06May2025 15:57:23.743] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 33
+[06May2025 15:57:23.796] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 34
+[06May2025 15:57:23.845] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config werewolves-server.toml' to 'fml:handshake' sequence 35
+[06May2025 15:57:23.895] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config travelersbackpack-server.toml' to 'fml:handshake' sequence 36
+[06May2025 15:57:23.944] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config werewolves-balance.toml' to 'fml:handshake' sequence 37
+[06May2025 15:57:23.995] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config vampirism-server.toml' to 'fml:handshake' sequence 38
+[06May2025 15:57:24.047] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config vampirism-balance.toml' to 'fml:handshake' sequence 39
+[06May2025 15:57:24.093] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config universalbonemeal-server.toml' to 'fml:handshake' sequence 40
+[06May2025 15:57:24.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 41
+[06May2025 15:57:24.195] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 42
+[06May2025 15:57:26.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 15:57:26.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
